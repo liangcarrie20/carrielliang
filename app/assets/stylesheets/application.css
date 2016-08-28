@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+@import url(http://fonts.googleapis.com/css?family=Arima+Madurai|Cookie|Happy+Monkey|Scope+One);
+
+body {
+  font-family: Scope One;
+}
