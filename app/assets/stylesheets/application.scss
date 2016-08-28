@@ -80,8 +80,11 @@ hr.star-primary:after {
   background-color: white;
   color: #A0A0A0;
 }
-img {
-  /*-webkit-filter: grayscale(50%);*/
+#profile-pic {
+    width:35%;
+    height: auto;
+    border-radius: 50%;
+    -webkit-filter: grayscale(25%); 
 }
 .img-centered {
   margin: 0 auto;
