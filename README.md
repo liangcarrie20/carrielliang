@@ -1,3 +1,3 @@
 # Personal website
 
-http://carrielliang.com
+www.carrielliang.com
