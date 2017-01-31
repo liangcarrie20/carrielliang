@@ -164,7 +164,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.3.6)
+  autoprefixer-rails
+  bootstrap-sass
   byebug
   coffee-rails (~> 4.2)
   font-awesome-rails

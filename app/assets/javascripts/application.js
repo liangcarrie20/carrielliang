@@ -12,13 +12,10 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
-//= require_tree .
-
-// Load all Bootstrap JavaScript
-//= require bootstrap-sprockets
-
 //= require jquery.easing
+//= require turbolinks
+//= require bootstrap-sprockets
+//= require_tree .
 
 // Freelancer Theme JavaScript
 
