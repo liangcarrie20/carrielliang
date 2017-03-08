@@ -14,7 +14,7 @@
  *= require_self
  *= require font-awesome
  */
-@import url(http://fonts.googleapis.com/css?family=Catamaran|Muli|Happy+Monkey|Scope+One);
+@import url(http://fonts.googleapis.com/css?family=Catamaran|Comfortaa|Muli|Pacifico|Poiret+One);
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import "font-awesome";
@@ -29,6 +29,14 @@ html,
 body {
     height: 100%;
     font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
+}
+
+a {
+  color: #C2245B;
+}
+
+a:hover {
+  color: black;
 }
 
 .carousel,
@@ -59,6 +67,15 @@ footer {
 }
 
 /* custom CSS */
+h1 {
+  color: #ffffff;
+  font-family: Comfortaa;
+}
+
+h2 {
+  font-family: Poiret One;
+  text-transform: uppercase;
+}
 
 .navbar-custom {
   margin-bottom: 0;
@@ -80,6 +97,8 @@ footer {
 }
 .navbar-custom .navbar-brand {
   font-weight: 700;
+  font-family: Poiret One;
+  font-size: 33px;
 }
 .navbar-custom .navbar-brand:focus {
   outline: none;
