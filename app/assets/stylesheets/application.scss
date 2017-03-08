@@ -34,7 +34,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #A0A0A0;
+  color: #C2235B;
   outline: none;
 }
 h1,
@@ -74,11 +74,11 @@ hr.star-light:after {
   color: white;
 }
 hr.star-primary {
-  border-color: #A0A0A0;
+  border-color: #C2235B;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #A0A0A0;
+  color: #C2235B;
 }
 #profile-pic {
     width:35%;
@@ -128,7 +128,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #A0A0A0;
+  background: #C2235B;
   font-family: "Happy Monkey", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -327,7 +327,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #A0A0A0;
+  background-color: #C2235B;
 }
 footer .footer-col {
   margin-bottom: 50px;
@@ -354,8 +354,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #A0A0A0;
-  border-color: #A0A0A0;
+  background-color: #C2235B;
+  border-color: #C2235B;
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -387,11 +387,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #A0A0A0;
-  border-color: #A0A0A0;
+  background-color: #C2235B;
+  border-color: #C2235B;
 }
 .btn-primary .badge {
-  color: #A0A0A0;
+  color: #C2235B;
   background-color: white;
 }
 .btn-success {
@@ -406,7 +406,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success.active,
 .open .dropdown-toggle.btn-success {
   color: white;
-  background-color: #A0A0A0;
+  background-color: #C2235B;
   border-color: #EEC0C6;
 }
 .btn-success:active,
@@ -505,7 +505,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #A0A0A0;
+  background-color: #C2235B;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -516,7 +516,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #A0A0A0;
+  background-color: #C2235B;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
